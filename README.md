@@ -9,7 +9,7 @@
     <figcaption>Treating the Linear Threshold Model as a classification model, where global cascades are the output gives us a loss function = 1 - cascade frequency.  </figcaption> 
 </figure>
 
-<br><br>
+<br>
 
 This is a repository of code to support the submitted journal publication: "Logic and Learning in Network Cascades".
 
