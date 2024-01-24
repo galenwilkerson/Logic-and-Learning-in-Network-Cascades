@@ -2,7 +2,14 @@
 
 
 # Logic-and-Learning-in-Network-Cascades
-<img src="loss_function.png" width="350" height="350">
+ <figure>
+     <div style="width: 100%;">
+    <img src="loss_function.png" width="350" height="350">
+</div>
+    <figcaption>Treating the Linear Threshold Model as a classification model, where global cascades are the output gives us a loss function = 1 - cascade frequency. </figcaption>
+</figure>
+
+
 
 This is a repository of code to support the submitted journal publication: "Logic and Learning in Network Cascades".
 
