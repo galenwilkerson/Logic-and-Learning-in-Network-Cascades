@@ -28,3 +28,4 @@ For more detailed information, please refer to our paper:
 
 If you use this code or our findings in your research, please cite our paper:
 
+Wilkerson, G. J., & Moschoyiannis, S. (2021). Logic and learning in network cascades. Network Science, 9(S1), S157-S174.
