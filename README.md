@@ -1,3 +1,6 @@
+<img src="loss_function.png" width="200" height="200">
+
+
 # Logic-and-Learning-in-Network-Cascades
 
 This is a repository of code to support the submitted journal publication: "Logic and Learning in Network Cascades".
