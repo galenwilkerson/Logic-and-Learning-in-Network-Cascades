@@ -6,9 +6,9 @@
      <div style="width: 100%;">
     <img src="loss_function.png" width="350" height="350">
 </div>
-    <figcaption>Treating the Linear Threshold Model as a classification model, where global cascades are the output gives us a loss function = 1 - cascade frequency.  </figcaption> [Source: Logic and Learning in Network Cascades](https://www.cambridge.org/core/journals/network-science/article/logic-and-learning-in-network-cascades/B89A3EB13FF6F1719482D38F11E37068)
+    <figcaption>Treating the Linear Threshold Model as a classification model, where global cascades are the output gives us a loss function = 1 - cascade frequency.  </figcaption> 
 </figure>
-
+[Source: Logic and Learning in Network Cascades](https://www.cambridge.org/core/journals/network-science/article/logic-and-learning-in-network-cascades/B89A3EB13FF6F1719482D38F11E37068)
 <br><br>
 
 This is a repository of code to support the submitted journal publication: "Logic and Learning in Network Cascades".
